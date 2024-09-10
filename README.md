@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to my GitHub! <img src="https://media.giphy.com/media/26gVfA5xkZMo2ZcnK/giphy.gif" width="30px"> I'm Andrii Syvash</h1>
 
-![Header GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNlc2Fqd3c5MjVtaWxwNXRmcXMyeTNuNnphNzg3dmlkYjB5bnJjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNlc2Fqd3c5MjVtaWxwNXRmcXMyeTNuNnphNzg3dmlkYjB5bnJjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" width="200" alt="Header GIF">
+</p>
 
 ---
 
