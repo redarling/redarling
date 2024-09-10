@@ -6,11 +6,11 @@
 
 ---
 
-### 🌱 About Me
+### 🧑‍💻 About Me
 
 - 🎓 **Software Engineering** student at **[42 Angouleme](https://www.42angouleme.fr/)**.
-- 📊 Passionate about Software Development and **Data Engineering**.
-- 🚀 Currently focused on mastering **C++**.
+- 💻 Passionate about Software Development and **Data Engineering**.
+- 🔍 Currently focused on mastering **C++**.
 
 ---
 
