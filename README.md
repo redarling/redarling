@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub! <img src="https://media.giphy.com/media/26gVfA5xkZMo2ZcnK/giphy.gif" width="30px"> I'm Andrii Syvash</h1>
 
-<p align="center" style="color: #00FF00; font-size: 24px;">I'm Software Engineering Student at 42</p>
+![Software Engineering Student](https://img.shields.io/badge/Software_Engineering_Student_at_42-%2300FF00?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
