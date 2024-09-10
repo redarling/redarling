@@ -2,7 +2,8 @@
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&width=800&lines=I'm+Software+Engineering+Student+at+42&size=30" alt="Typing SVG" />
-</a>
+</a> ![?](https://media.giphy.com/media/26uf6leGpyGzd6gi0/giphy.gif)
+
 
 ---
 
