@@ -13,9 +13,9 @@
 ---
 
 ### 💼 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-syvash-a41b852b4/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:asyvash.work.it@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%23187272.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BigRacksBih/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/andrii-syvash-a41b852b4/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:asyvash.work.it@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%23187272.svg?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20)](https://t.me/BigRacksBih/)
 
 ---
 
