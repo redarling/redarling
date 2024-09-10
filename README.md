@@ -1,9 +1,6 @@
 <h1 align="center">Welcome to my GitHub! <img src="https://media.giphy.com/media/26gVfA5xkZMo2ZcnK/giphy.gif" width="30px"> I'm Andrii Syvash</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&width=800&lines=I'm+Software+Engineering+Student+at+42&size=30" alt="Typing SVG" />
-</a> ![?](https://media.giphy.com/media/26uf6leGpyGzd6gi0/giphy.gif)
-
+<p align="center" style="color: #00FF00; font-size: 24px;">I'm Software Engineering Student at 42</p>
 
 ---
 
