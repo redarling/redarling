@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub! <img src="https://media.giphy.com/media/26gVfA5xkZMo2ZcnK/giphy.gif" width="30px"> I'm Andrii Syvash</h1>
 
-![Software Engineering Student](https://img.shields.io/badge/Software_Engineering_Student_at_42-%2300FF00?style=for-the-badge&logo=github&logoColor=white)
+![Header GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNlc2Fqd3c5MjVtaWxwNXRmcXMyeTNuNnphNzg3dmlkYjB5bnJjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp)
 
 ---
 
