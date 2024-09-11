@@ -19,7 +19,7 @@
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:asyvash.work.it@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%23187272.svg?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20)](https://t.me/bigracksbih/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20)](https://discord.com/users/433247047840432128)
-- OR **asyvash.work.it@gmail.com**
+- **asyvash.work.it@gmail.com**
 ---
 
 ### 🛠️ Tech Stack:
