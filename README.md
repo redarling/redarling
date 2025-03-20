@@ -9,7 +9,6 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **Software Engineering** student at **[42 Angouleme](https://www.42angouleme.fr/)**.
-- 💻 Passionate about Software Development and **Data Engineering**.
 - 🌱 Currently doing an internship at Bluco (Station F).
 
 ---
