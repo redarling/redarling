@@ -8,15 +8,15 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Software Engineering** student at **[42 Angouleme](https://www.42angouleme.fr/)**.
-- 🌱 Currently doing an internship at Bluco (Station F).
+- 🎓 **Student** at **[42 Angouleme](https://www.42angouleme.fr/)**.
+- 💼 **Software Engineering Intern** at **[Bluco (Station F)](https://www.bluco.ai)**.
 
 ---
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/asyvash)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:asyvash.work.it@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%23187272.svg?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20)](https://t.me/bigracksbih/)
+[![Telegram](https://img.shields.io/badge/Telegram-%23187272.svg?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20)](https://t.me/redarling/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20)](https://discord.com/users/433247047840432128)
 - **asyvash.work.it@gmail.com**
 ---
@@ -34,11 +34,11 @@
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Frameworks & Libraries:**  
+- **Frameworks & Libraries:**
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- **Testing**   
+- **Testing:**
   ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)  
 
 - **Containers and Virtualization:**
@@ -58,10 +58,3 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-
-![Andrii's Stats](https://github-readme-stats.vercel.app/api?username=redarling&theme=dark&show_icons=true&hide_border=true&count_private=true)  
-![Andrii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=redarling&theme=dark&hide_border=true)
