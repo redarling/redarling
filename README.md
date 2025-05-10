@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Student** at **[42 Angouleme](https://www.42angouleme.fr/)**.
+- 🎓 **Student** at **[42 Angoulême](https://www.42angouleme.fr/)**, working towards **RNCP Level 6 in Application Software Development**.
 - 💼 **Software Engineering Intern** at **[Bluco (Station F)](https://www.bluco.ai)**.
 
 ---
