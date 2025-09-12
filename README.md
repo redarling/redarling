@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Student** at **[42 Angoulême](https://www.42angouleme.fr/)**, working towards **RNCP Level 6 in Application Software Development**.
+- 🎓 **Student** at **[42 Angoulême](https://www.42angouleme.fr/)**, working towards **RNCP Level 6 in Applicative Software Development**.
 
 ---
 
