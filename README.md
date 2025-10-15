@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=redarling&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox" />
-
 <div align="center">
   <table>
   <tr>
