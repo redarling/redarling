@@ -6,7 +6,7 @@ I'm a product-minded Full-Stack and AI engineer, specializing in building SaaS s
 
 **About me**
 
-- <img height="18" style="vertical-align: middle;" alt="cobalt" src="https://app.cobalt-ia.com/cobalt-logo-transparent.png"> Founding Software Engineer at [Cobalt](https://www.cobalt-ia.com/fr)
+- <img height="15" style="vertical-align: middle;" alt="cobalt" src="https://app.cobalt-ia.com/cobalt-logo-transparent.png"> Founding Software Engineer at [Cobalt](https://www.cobalt-ia.com/fr)
 
 - 🎓 42 School • ex-Future 40 startup @ Station F
 
