@@ -1,149 +1,34 @@
-<div align="center">
-  <img height="120" src="https://github.com/42data/badges/blob/main/level/level14.png?raw=true" />
-  <h3>Full-stack & AI Engineer</h3>
-</div>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/header.jpg" /></a></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/asyvash/">
-  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:asyvash.work.it@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/redarling/">
-  <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/433247047840432128">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  
-<div align="center">
-  <table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-      <br>Typescript
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>AWS
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-  </tr>
-    
-<tr>
-  <!-- Version Control & CI/CD -->
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-    <br>Git
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" />
-    <br>CI/CD
-  </td>
+<br />
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-    <br>HTML
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-    <br>CSS
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
-    <br>TailwindCSS
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-    <br>Next.js
-  </td>
+I'm a product-minded Full-Stack and AI engineer, specializing in building SaaS startups!
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
-    <br>SQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-    <br>PostgreSQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-    <br>MongoDB
-  </td>
-</tr>
+**About me**
 
-<tr>
+- <img height="18" style="vertical-align: middle;" alt="cobalt" src="https://app.cobalt-ia.com/cobalt-logo-transparent.png"> Founding Software Engineer at [Cobalt](https://www.cobalt-ia.com/fr)
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-    <br>Redis
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-    <br>Kafka
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
-    <br>RabbitMQ
-  </td>
+- 🎓 42 School • ex-Future 40 startup @ Station F
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-    <br>Node.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-    <br>FastAPI
-  </td>
+- ❤️ I love creating, experimenting, and pushing boundaries
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-    <br>Postman
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" />
-    <br>Sentry
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-    <br>Linux
-  </td>
-  <td align="center" width="96">
-    <img src="https://github.com/user-attachments/assets/8262f678-527f-43dc-ab4d-de8f42b63d31" width="40" height="40" alt="Cursor" />
-    <br>Cursor
-  </td>
-</tr>
+- 💬 Let's connect! [LinkedIn](https://www.linkedin.com/in/asyvash/) 
 
-</table>
-</div>
+
+<code><img height="25" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" alt="nextjs" src="https://skillicons.dev/icons?i=nextjs"></code>
+<code><img height="25" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="25" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+<code><img height="25" alt="redis" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
+<code><img height="25" alt="docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="25" alt="kubernetes" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
+<code><img height="25" alt="aws" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
+
+<code><img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="25" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
+<code><img height="25" alt="huggingface" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4"></code>
+<code><img height="25" alt="langchain" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4"></code>
+<code><img height="25" alt="claude" src="https://nikiforovall.blog/claude-code-rules/img/cc.png"></code>
+<code><img height="25" alt="pinecone" src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4"></code>
+<code><img height="25" alt="zeroentropy" src="https://d7umqicpi7263.cloudfront.net/img/product/016ab6c9-8c21-4ad0-9dd7-8e784ace1d7e.com/7dea9644b4cfd10932ec70b99c42e066"></code>
