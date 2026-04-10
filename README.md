@@ -8,7 +8,7 @@ I'm a product-minded Full-Stack and AI engineer, specializing in building startu
 
 - <img height="15" style="vertical-align: middle;" alt="cobalt" src="https://app.cobalt-ia.com/cobalt-logo-transparent.png"> Founding Software Engineer at [Cobalt](https://www.cobalt-ia.com/fr)
 
-- 🎓 42 School • ex-Future 40 startup @ Station F
+- 🎓 42 School • ex-Future 40 startup @ Station F ([Bluco](https://stationf.co/news/future40-2024))
 
 - ❤️ I love creating, experimenting, and pushing boundaries
 
