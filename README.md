@@ -1,4 +1,4 @@
-I'm a product-minded Full-Stack and AI engineer, specializing in building agentic, AI-native products!
+I'm a product-minded Full-Stack and AI engineer specializing in building agentic systems!
 
 **About me**
 
@@ -10,15 +10,15 @@ I'm a product-minded Full-Stack and AI engineer, specializing in building agenti
 
 - 💬 Let's connect! [LinkedIn](https://www.linkedin.com/in/asyvash/) 
 
-
-<code><img height="25" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" alt="nextjs" src="https://skillicons.dev/icons?i=nextjs"></code>
+<code><img height="25" alt="typescript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+<code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="25" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"></code>
 <code><img height="25" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="25" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
 <code><img height="25" alt="redis" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
 <code><img height="25" alt="docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 <code><img height="25" alt="kubernetes" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
+<code><img height="25" alt="terraform" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"></code>
 <code><img height="25" alt="aws" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
 
 <code><img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
