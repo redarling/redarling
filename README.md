@@ -1,4 +1,4 @@
-I'm a product-minded Full-Stack and AI engineer, specializing in building startups!
+I'm a product-minded Full-Stack and AI engineer, specializing in building agentic, AI-native products!
 
 **About me**
 
