@@ -25,6 +25,9 @@ I'm a product-minded Full-Stack and AI engineer, specializing in building agenti
 <code><img height="25" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
 <code><img height="25" alt="huggingface" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4"></code>
 <code><img height="25" alt="langchain" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4"></code>
+<code><img height="25" alt="langgraph" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/langgraph-color.png"></code>
 <code><img height="25" alt="claude" src="https://nikiforovall.blog/claude-code-rules/img/cc.png"></code>
+<code><img height="25" alt="mcp" src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4"></code>
 <code><img height="25" alt="pinecone" src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4"></code>
 <code><img height="25" alt="zeroentropy" src="https://d7umqicpi7263.cloudfront.net/img/product/016ab6c9-8c21-4ad0-9dd7-8e784ace1d7e.com/7dea9644b4cfd10932ec70b99c42e066"></code>
+<code><img height="25" alt="langfuse" src="https://avatars.githubusercontent.com/u/134601687?s=200&v=4"></code>
