@@ -1,4 +1,4 @@
-I'm a product-minded Full-Stack and AI engineer specializing in building agentic systems!
+I'm a product-minded AI engineer specializing in building agentic systems!
 
 **About me**
 
